@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and cyber security
 - 🌱 I’m currently learning machine learning and information security. 
 - 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: fact fun
+- ⚡ Fun fact: Im planning to do an exchange program to studying for a while in Singapore.
 
 Just a third year Bachelor of Computer Science / Master of Cyber Security (dual degree)
 student at the University of Queensland, Brisbane. Open to any sort of work relating to 
