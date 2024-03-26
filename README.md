@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msk-aye
 - 👀 I’m interested in AI and cyber security
-- 🌱 I’m currently learning machine learning and information security. 
+- 🌱 I’m currently learning machine learning, information security, functional programming and computer networking. 
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Im planning to do an exchange program to studying for a while in Singapore.
 
