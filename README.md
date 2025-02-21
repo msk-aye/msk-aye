@@ -1,5 +1,5 @@
-<h1 align="center">msk-aye</h1>
-<div align="center">
+<h1 align="left">msk-aye</h1>
+<div align="left">
      <a href="https://linkedin.com/in/muhammad-sulaman-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=msk-aye&style=for-the-badge&color=red" alt="Views"/>
 </div>
@@ -9,7 +9,7 @@ Working on an updated README, coming soon!
 <!---
 ---
 
-Welcome! My name is **Sulaman** and I am a student at [The University of Queensland (UQ)](https://uq.edu.au/) and security intern at [CompliantERP](https://audima.com.au/). I am also a capstone student currently working with [NOJA Power](https://www.nojapower.com.au/) to creating automated application and firmware security tests.
+Welcome! My name is **Sulaman** and I am a student at [The University of Queensland (UQ)](https://uq.edu.au/) and security intern at [CompliantERP](https://complianterp.com/). I am also a capstone student currently working with [NOJA Power](https://www.nojapower.com.au/) to create automated application and firmware security tests.
 
 I am currently in my final year of university studying Bachelor of Computer Science and Masters of Cybersecurity.
 
@@ -19,25 +19,19 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 ## :book: Education
 
-- *Bachelor of Applied & Computational Mathematics (2021 - 2025)*
+- *Bachelor of Computer Science / Master of Cybersecurity*
   
-    **Current GPA: 7.0 / 7.0 (High Distinction)**.
-
-- *Bachelor of Computer & Software Systems Engineering (Honours) (2021 - 2025)*
-
-    **Current GPA: 7.0 / 7.0 (High Distinction)**.
+    **Current GPA: 6.0 / 7.0 (Distinction)**.
 
 - *Queensland Certificate of Education (2020)*
 
-    **ATAR: 96.75 / 99.95**
+    **ATAR: 95.45 / 99.95**
 
 ---
 
 ## :man_technologist: Experience
 
-I have been programming for about **7 years** and have worked with the following tools and technologies.
-
-### :computer: Software & Services I Frequently Use
+### :computer: Software & Services I am Experienced in
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>&nbsp;
@@ -101,13 +95,25 @@ I have been programming for about **7 years** and have worked with the following
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=31427635)
+
 ---
 
-<div align="center">
-    
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)&nbsp;[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
+## ***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 
-</div>
+🔹 [**E-paper Portable Digital Watch**](https://adnaanbuksh.netlify.app/#projects) – Compact and energy-efficient digital watch using e-paper technology.  
+🔹 [**Remote-Controlled Microscope (RCM) System**](https://adnaanbuksh.netlify.app/#projects) – A remotely operated microscope system for precise imaging.  
+🔹 [**Image Reconstruction for Noise Reduction**](https://adnaanbuksh.netlify.app/#projects) – Advanced image processing technique to reduce noise and enhance clarity.  
+🔹 [**Remote Firefighting Vehicle Prototype**](https://adnaanbuksh.netlify.app/#projects) – Autonomous fire suppression vehicle for hazardous environments.  
+
+---
+
+## 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://adnaanbuksh.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnaanbuksh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adubuksh@gmail.com)
+
+---
 --->
 
 <!---
