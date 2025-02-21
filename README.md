@@ -1,4 +1,4 @@
-<h1 align="left">msk-aye</h1>
+<h1 align="left">msk-aye (Sulaman Khan)</h1>
 <div align="left">
      <a href="https://linkedin.com/in/muhammad-sulaman-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=msk-aye&style=for-the-badge&color=red" alt="Views"/>
@@ -8,6 +8,8 @@ Working on an updated README, coming soon!
 
 <!---
 ---
+
+## :wave: About Me
 
 Welcome! My name is **Sulaman** and I am a student at [The University of Queensland (UQ)](https://uq.edu.au/) and security intern at [CompliantERP](https://complianterp.com/). I am also a capstone student currently working with [NOJA Power](https://www.nojapower.com.au/) to create automated application and firmware security tests.
 
