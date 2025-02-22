@@ -33,15 +33,13 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 ## :man_technologist: Experience
 
-### :computer: Software & Services I am Experienced in
+### :computer: Software & Services I Use
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Git" height="48rem"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="48rem"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height="48rem"/>&nbsp;
 </div>
 
 #### Operating Systems I Use
@@ -51,7 +49,7 @@ Feel free to check out all my repositories to see what I have been getting up to
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="48rem"/>
 </div>
 
-### :hammer_and_wrench: Languages & Tools I Like
+### :hammer_and_wrench: Languages & Tools I am Experienced in
 
 #### For Web Development
 
@@ -67,19 +65,12 @@ Feel free to check out all my repositories to see what I have been getting up to
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="48rem" />&nbsp;
 </div>
 
-#### For Machine Learning & Software Development
+#### For Software Development
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" height="48rem" />&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
-</div>
-
-#### For Mathematics
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="48rem" />&nbsp; 
 </div>
 
 ---
@@ -88,32 +79,30 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 <div align="center">
 
-![Tarang74's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarang74&show_icons=true&count_private=true&theme=tokyonight)
+![Tarang74's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msk-aye&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarang74&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msk-aye&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarang74&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msk-aye&theme=tokyonight)
 
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=31427635)
 
 ---
 
 ## ***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 
-🔹 [**E-paper Portable Digital Watch**](https://adnaanbuksh.netlify.app/#projects) – Compact and energy-efficient digital watch using e-paper technology.  
-🔹 [**Remote-Controlled Microscope (RCM) System**](https://adnaanbuksh.netlify.app/#projects) – A remotely operated microscope system for precise imaging.  
-🔹 [**Image Reconstruction for Noise Reduction**](https://adnaanbuksh.netlify.app/#projects) – Advanced image processing technique to reduce noise and enhance clarity.  
-🔹 [**Remote Firefighting Vehicle Prototype**](https://adnaanbuksh.netlify.app/#projects) – Autonomous fire suppression vehicle for hazardous environments.  
+🔹 [**AI Maze Game Solver**](https://github.com/msk-aye/AI-maze-game-solver) – xx.  
+🔹 [**Python Chat Server**](https://github.com/msk-aye/python-messaging-server) – xx.  
+🔹 [**Python Maze Runner Game**](https://github.com/msk-aye/maze-runner-game) – xx.  
+🔹 [**Word Ladder in C**](https://github.com/msk-aye/word-ladder) – xx.  
 
 ---
 
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://adnaanbuksh.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnaanbuksh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adubuksh@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](website link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkeedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email)
 
 ---
 --->
