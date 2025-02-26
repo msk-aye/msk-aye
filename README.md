@@ -1,6 +1,5 @@
 <h1 align="left">msk-aye (Sulaman Khan)</h1>
 <div align="left">
-     <a href="https://linkedin.com/in/muhammad-sulaman-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=msk-aye&style=for-the-badge&color=red" alt="Views"/>
 </div>
 
