@@ -4,6 +4,7 @@
 </div>
 
 Working on an updated README, coming soon!
+Until then please feel free to take a look around at my repositories and visit my LinkedIn.
 
 <!---
 ---
