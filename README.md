@@ -94,15 +94,13 @@ Feel free to check out all my repositories to see what I have been getting up to
 🔹 [**Python Maze Runner Game**](https://github.com/msk-aye/maze-runner-game) – xx.  
 🔹 [**Word Ladder in C**](https://github.com/msk-aye/word-ladder) – xx.  
 
-
-
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://msk-aye.netlify.app/)
 
 --->
 
 ---
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://msk-aye.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sulaman-khan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulamankhan265@gmail.com)
 ---
