@@ -23,7 +23,7 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 - *Bachelor of Computer Science / Master of Cybersecurity*
   
-    **Current GPA: 6.0 / 7.0 (Distinction)**.
+    **Current GPA: 6.1 / 7.0 (Distinction)**.
 
 - *Queensland Certificate of Education (2020)*
 
@@ -88,33 +88,21 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 ## ***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 
+🔹 [**Movie Search WebApp**](https://xx) – xx
 🔹 [**AI Maze Game Solver**](https://github.com/msk-aye/AI-maze-game-solver) – xx.  
 🔹 [**Python Chat Server**](https://github.com/msk-aye/python-messaging-server) – xx.  
 🔹 [**Python Maze Runner Game**](https://github.com/msk-aye/maze-runner-game) – xx.  
 🔹 [**Word Ladder in C**](https://github.com/msk-aye/word-ladder) – xx.  
 
----
 
+
+
+--->
+
+---
 ## 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://msk-aye.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sulaman-khan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulamankhan265@gmail.com)
-
 ---
---->
-
-<!---
-- 👋 Hi, I’m @msk-aye
-- 👀 I’m interested in AI and cyber security
-- 🌱 I’m currently learning machine learning, information security, functional programming and computer networking. 
-- 📫 How to reach me: LinkedIn
-
-Just a third year Bachelor of Computer Science / Master of Cyber Security (dual degree)
-student at the University of Queensland, Brisbane.
---->
-
-<!---
-msk-aye/msk-aye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
