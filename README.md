@@ -88,11 +88,9 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 ## ***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 
-🔹 [**Movie Search WebApp**](https://xx) – xx
-🔹 [**AI Maze Game Solver**](https://github.com/msk-aye/AI-maze-game-solver) – xx.  
-🔹 [**Python Chat Server**](https://github.com/msk-aye/python-messaging-server) – xx.  
-🔹 [**Python Maze Runner Game**](https://github.com/msk-aye/maze-runner-game) – xx.  
-🔹 [**Word Ladder in C**](https://github.com/msk-aye/word-ladder) – xx.  
+🔹 [**Movie Search WebApp**](https://xx) – Built a secure movie-finding web application using React and Node.js / Express, integrating MySQL for data storage and user authentication with hashed (and salted) passwords. Implemented HTTPS with SSL certificates for encrypted communication.
+🔹 [**AI Maze Game Solver**](https://github.com/msk-aye/AI-maze-game-solver) – An AI based dragon game virtual environment solver using multiple industry accepted artificial intelligence techniques such as A* search with heuristic design as well as value and policy iteration techniques.
+🔹 [**Python Chat Server**](https://github.com/msk-aye/python-messaging-server) – Developed a functional chat server and chat client program that can send and receive messages on local networks using a raw socket and manually crafted TCP packets, made in both Python.
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://msk-aye.netlify.app/)
 
