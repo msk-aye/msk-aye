@@ -3,9 +3,6 @@
     <img src="https://komarev.com/ghpvc/?username=msk-aye&style=for-the-badge&color=red" alt="Views"/>
 </div>
 
-Working on an updated README, coming soon!
-Until then please feel free to take a look around at my repositories and visit my LinkedIn.
-
 <!---
 ---
 
@@ -56,6 +53,7 @@ Feel free to check out all my repositories to see what I have been getting up to
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" />&nbsp;
+    <img src="https://raw.hithubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="d3JS" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
