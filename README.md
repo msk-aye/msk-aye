@@ -48,7 +48,7 @@ Feel free to check out all my repositories to see what I have been getting up to
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" />&nbsp;
-    <img src="https://raw.hithubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" style="filter: invert(1);" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="d3JS" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
@@ -59,7 +59,7 @@ Feel free to check out all my repositories to see what I have been getting up to
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="48rem" />&nbsp; 
 </div>
 
@@ -70,20 +70,6 @@ Feel free to check out all my repositories to see what I have been getting up to
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="48rem" />&nbsp;
-</div>
-
----
-
-## :fire: GitHub Statistics
-
-<div align="center">
-
-![msk-aye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msk-aye&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msk-aye&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msk-aye&theme=tokyonight)
-
 </div>
 
 ---
