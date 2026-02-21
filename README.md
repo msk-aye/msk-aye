@@ -5,11 +5,9 @@
 
 ## :wave: About Me
 
-Welcome! My name is **Sulaman** and I am a student at [The University of Queensland (UQ)](https://uq.edu.au/). You can see my professional experience on my LinkedIn.
+Welcome! My name is **Sulaman** and I am a Computer Science and Cyber Security graduate from [The University of Queensland (UQ)](https://uq.edu.au/). You can see my professional experience on my LinkedIn.
 
-I am currently in my final year of university studying Bachelor of Computer Science and Masters of Cybersecurity.
-
-Feel free to check out all my repositories to see what I have been getting up to during my years at university.
+Feel free to check out all my repositories to check what I am working on and past projects.
 
 ---
 
