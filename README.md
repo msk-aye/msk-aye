@@ -13,7 +13,7 @@ Feel free to check out all my repositories to check what I am working on and pas
 
 ## :book: Education
 
-- *Bachelor of Computer Science / Master of Cybersecurity*
+- *Bachelor of Computer Science / Master of Cybersecurity (2025)*
   
     **Current GPA: 6.1 / 7.0 (Distinction)**.
 
